@@ -205,5 +205,4 @@ class _RecipeListState extends State<RecipeList> {
       child: CircularProgressIndicator(),
     );
   }
-
 }
